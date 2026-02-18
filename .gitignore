@@ -1,0 +1,6 @@
+.env
+node_modules
+dist
+.poncho/
+interactive-session.json
+.vercel
