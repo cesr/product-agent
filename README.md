@@ -6,7 +6,7 @@ A specialized product AI agent built with [Poncho](https://github.com/cesr/ponch
 >
 > [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fcesr%2Fproduct-agent&env=ANTHROPIC_API_KEY&envDescription=API%20key%20needed%20to%20power%20the%20product%20agent&envLink=https%3A%2F%2Fconsole.anthropic.com%2Fsettings%2Fkeys)
 
-![Product Agent](./assets/product-agent.png)
+[![Product Agent](./assets/product-agent.png)](https://product-agent-poncho.vercel.app/)
 
 ## What I Can Do
 
